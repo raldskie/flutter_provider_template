@@ -1,0 +1,1 @@
+enum Loading { userData, productList }
